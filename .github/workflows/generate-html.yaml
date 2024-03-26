@@ -1,4 +1,4 @@
-name: update-readme
+name: Update and publish html 
 
 on:
   push:
@@ -15,10 +15,18 @@ jobs:
         run: |
           git config --local user.name "Tim Froidcoeur"
           git config --local user.email "tim.froidcoeur@gmail.com"
-          git add *.html
+          git add public/*.html
           git commit -m "Updated html"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true
+          projectId: markdown-cv
+      - uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MARKDOWN_CV }}'
+          channelId: live
+          projectId: markdown-cv
+
