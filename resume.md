@@ -19,64 +19,54 @@ job.
 - Enthusiastic
 - Software architecture, engineering and programming.
 - Solution builder, using whatever is needed
-- Social, outward-bound
 
 ## Skills & Tools
 
 ### Programming Languages
 
-- Java, C, bash script, Python, C++
-- some Groovy, Scala, Perl, Lua, PHP
-- assembler (Real16, EPICS7, ARM)
+- C, Go, Dart (Flutter), Shell script, Typescript, Python
+- Some Rust, Java, C++, Groovy, Swift and others
 
 ### Platforms
 
-- X86, ARM, Trimedia, Real16, MIPS
-- Qualcomm MDM6200, MDM9x15,
-- TI AM335x (beaglebone)
+- X86, ARM, MIPS
 - NXP LPC ARM7/Cortex-M3 family
 
 ### OS
 
-- Linux, Windows, PSoS, RTK, L4/Rex
+- Linuxes, OpenWRT, Android, MacOS, iOs,
 
 ### Tools
 
-- Visual studio
-- make, ant
-- gcc, armcc
-- javac, WTK (J2ME) toolchain
-- Cygwin and MinGW toolchain on windows
-- git, git svn, subversion, perforce
-- Jenkins CI
-- Lauterbach T32 debugging, gdb, jdb
+- Visual studio Code
+- git 
+- Jenkins CI, Github Actions
 - Wireshark network analyser
 - LeCroy CATC USB analyser
 - Qualcomm QXDM
 - Eclipse (JDT, CDT, MTJ, JCOP, WTP), vi
+- Ansible
 
 ### Technologies
 
+- Firebase (cloud functions, RTDB, Firestore, hosting)
+- IoT: ZWave, DECT ULE, MQTT, OpenHAB, Home Assistant
+- Flutter (for iOs/Android/MacOS)
+- Kubernetes
+- KVM/Qemu
 - TLS (SSL)
 - GNSS technologies (GPS/Glonass/Galileo)
-- TCP/IP, Ipv6, HTTP, CSS, HTML, UPnP
-- Mobile Communication systems (2G/3G/LTE)
-- USB: CDC/ACM, Audio, MTP
-- IoT: ZWave, DECT ULE
-- NFC, RFID
-- applied security and cryptography
-- SQL
-
-### Java technologies
-
-- J2ME (CDC/Foundation, CLDC/ MIDP), J2SE, J2EE (tomcat)
-- Java SE embedded 8
-- JSSE, JCE
-- JNI, KNI, JIT, Garbage Collector
-- Sun VM, J9 VM, Wonka VM
-- Java Card and JCOP
+- Networking: TCP/IP, Ipv6, MPTCP, Websocket, REST, HTTP, CSS, HTML, UPnP
+- Linux networking stack: Netfilter, iptables, netlink, transparent proxy, kernel development
+- Mobile Communication systems (2G/3G/LTE/5G)
 
 ## Employment
+
+### Tessares
+
+#### MPTCP
+
+mProxy client, HAG server
 
 ### SoftAtHome, Wijgmaal,Belgium From May 2015
 
