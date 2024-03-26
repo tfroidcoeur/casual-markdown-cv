@@ -1,9 +1,3 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="images/me.jpeg" />
-
-<span style="float:right;padding:6px;COLOR:WHITE">
-  tim.froidcoeur@email.com <br> mobile: +32 479 92 09 09<br> Nationality: Belgian
-</span>
-
 # Summary
 
 I am a Senior Embedded Software Developer coming from dynamic high-tech
