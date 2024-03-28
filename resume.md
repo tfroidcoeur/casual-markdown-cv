@@ -1,11 +1,10 @@
-# Summary
+# Resume
 
-I am a Senior Embedded Software Developer coming from dynamic high-tech
-environments where I am effectively using my technical skills in roles
-of software architect or software developer. I value constant learning
-and the possibility of working with new technologies, languages,
-environments, people. It is important to me to be able to make a sizable
-contribution and have a clear impact on customers, colleagues and
+I am a Software Developer coming from dynamic high-tech
+environments where I am effectively using my technical skills.
+I value constant learning and the possibility of working with new technologies,
+languages, environments, people. It is important to me to be able to make a
+sizable contribution and have a clear impact on customers, colleagues and
 projects.
 
 A positive team spirit and sense of a common goal makes me thrive in my
@@ -13,12 +12,11 @@ job.
 
 ## Core Competencies
 
-- Fast-learner, flexibility
 - Analytical mind: problem-solving
+- Fast-learner, flexibility
 - Team player
 - Enthusiastic
-- Software architecture, engineering and programming.
-- Solution builder, using whatever is needed
+- Maker
 
 ## Skills & Tools
 
@@ -29,8 +27,7 @@ job.
 
 ### Platforms
 
-- X86, ARM, MIPS
-- NXP LPC ARM7/Cortex-M3 family
+- Embedded: ARM, MIPS, various microcontrollers
 
 ### OS
 
@@ -39,7 +36,8 @@ job.
 ### Tools
 
 - Visual studio Code
-- git 
+- git
+- github
 - Jenkins CI, Github Actions
 - Wireshark network analyser
 - LeCroy CATC USB analyser
@@ -49,6 +47,7 @@ job.
 
 ### Technologies
 
+- Vue.js
 - Firebase (cloud functions, RTDB, Firestore, hosting)
 - IoT: ZWave, DECT ULE, MQTT, OpenHAB, Home Assistant
 - Flutter (for iOs/Android/MacOS)
@@ -60,15 +59,33 @@ job.
 - Linux networking stack: Netfilter, iptables, netlink, transparent proxy, kernel development
 - Mobile Communication systems (2G/3G/LTE/5G)
 
-## Employment
+## Experience
 
-### Tessares
+### Tessares ( Louvain-La-Neuve, Belgium From 2016 )
 
-#### MPTCP
+- startup (UCL spinoff)
+- Network solutions
+- Agile methodology
 
-mProxy client, HAG server
+#### Ottie ( From 2022 )
 
-### SoftAtHome, Wijgmaal,Belgium From May 2015
+**Senior R&D Software Engineer**
+
+- flutter app for iOs/Android and MacOS
+- firebase backend (typescript)
+- embedded router application (golang application on OpenWRT)
+- frontend webapp (Vue)
+
+#### MPTCP (2016 - 2022)
+
+**Senior R&D Software Engineer**
+
+- embedded "HCPE" router client (with MPTCP kernel patch)
+- backend linux "HAG" server (physical and virtualized)
+- maintenance of MPTCP kernel patch
+- customer (B2B) support for both HCPE and HAG
+
+### SoftAtHome, Wijgmaal,Belgium May 2015 - Mar 2016
 
 **Consultant**
 
@@ -79,9 +96,9 @@ home gateway software stack. The other half of my time is dedicated to
 the following up the architecture of the complete home automation
 solution.
 
-### Essensium – Mind, Leuven, Belgium From May 2015
+### Essensium – Mind, Leuven, Belgium May 2015 - September 2017
 
-**Senior Embedded Software Developer**
+**Embedded Software Developer**
 
 Part of a SW development team that provides consultancy and services in
 the field of Linux and Open Source Software for Embedded Systems (mainly
@@ -160,7 +177,7 @@ reuse of already-developed components between ATOP family members.
 
 ### NXP, Leuven, Belgium 2006 - 2007
 
-Software architect and senior SW developer
+**Software architect and senior SW developer**
 
 The NFC demonstrators project at NXP Leuven was set up to create
 compelling demonstrators for the NXP product portfolio in contactless
